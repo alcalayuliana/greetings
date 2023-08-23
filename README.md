@@ -10,8 +10,6 @@ go get -u github.com/alcalayuliana/greetings
 
 
 
-
-
 ## Uso
 Aquí tiene un ejemplo de cómo utilizar el paquete en tu código:
 

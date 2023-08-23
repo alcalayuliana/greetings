@@ -10,6 +10,6 @@ go get -u github.com/jose/greetings
 ´´´
 
 ## Uso
-Aquí tienew un ejemplo de cómo utilizar el paquete en tu código:
+Aquí tiene un ejemplo de cómo utilizar el paquete en tu código:
 
 
